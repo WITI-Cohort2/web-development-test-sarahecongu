@@ -1,0 +1,28 @@
+*{
+    color:goldenrod;
+    text-align: justify;
+    font-weight: bold;
+
+
+}
+.first{
+    background-color: black;
+    height: 600px;
+    width: 600px;
+    padding: 5px;
+    
+    
+
+
+}
+.second{
+    background-color:grey;
+    height: 100px;
+    width: 600px;
+    padding: 5px;
+    
+}
+button{
+    background-color: goldenrod;
+    text-align: right;
+}

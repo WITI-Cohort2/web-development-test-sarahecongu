@@ -1,0 +1,7 @@
+number 1
+a)elements are  HTML tags that have both opening and closing tags.for example;"the paragraph element
+b)Attributes are the HTML tags that assist the elements to function normally for example "id"attribute
+c)selectors are the cascading style sheet attributes that that enable us group different HTML elements into groups for easy styling for example the descendant selectors
+d)semantic elements are HTML elements that have meaning .for example tables
+e)Web accessibility refers to the ability of a web user to easily navigate through a specific web sites when given to him or her.
+d)web server refers to where different websites are located . 
